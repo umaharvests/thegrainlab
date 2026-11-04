@@ -202,3 +202,4 @@ Its ingredient amounts match the vanilla label (and include vanilla), but its nu
 matches the chocolate label. The amounts add up to 100.1 g per 100 g. Its common names (milk
 powder, monk fruit, baking powder, xanthan gum) differ from the label declarations; the explorer
 shows both.
+# thegrainlab
