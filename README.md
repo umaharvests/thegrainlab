@@ -21,7 +21,7 @@ never be published.
 The site is a non-transactional catalogue: no prices, cart or checkout. Purchase UI appears only
 when a product's `purchase` field holds real data.
 
-## Scripts  
+## Scripts       
 
 ```bash
 npm install
